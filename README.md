@@ -7,3 +7,7 @@
 3. [H-index](./h-index.md)
 4. [Hex](./hex.md)
 5. [Milk Tea](./milk_tea.md)
+
+## Solves
+
+[In this folder](./solves/)
