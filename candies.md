@@ -14,13 +14,13 @@ The next line contains N non-negative integers C1,C2,…,CN representing array C
 For each test case, output one line containing Case #x: y, where x is the test case number (starting from 1) and y is the number of candies that will remain if you divide candies between kids according to the rules described above.
 
 ## Limits
-Time limit: 40 seconds.
-Memory limit: 1 GB.
+Time limit: 40 seconds.  
+Memory limit: 1 GB. 
 
 ## Test Set 1
-1≤T≤100.
-1≤N≤105.
-1≤M≤104.
+1≤T≤100.  
+1≤N≤105.  
+1≤M≤104.  
 0≤Ci≤1000, for all i from 1 to N.
 
 ## Sample
